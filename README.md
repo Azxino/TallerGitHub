@@ -1,15 +1,36 @@
-"# Taller GitHub Autor: Alejandro Olivera Narvaez Descripci¢n: Proyecto practico para aprender Git y GitHub."
+Taller Git y GitHub
+Autor: ALEJANRO OLIVERA NARVAEZ
+Descripción del proyecto
 
-"Esta es una descripci¢n adicional a¤adida desde la rama feature-descripcion." 
+Este repositorio fue creado como parte de un ejercicio práctico para aprender a utilizar Git y GitHub. Aquí se muestra el uso de ramas, commits, Pull Requests y fusiones (merge).
 
-"# Reto Final - Documentaci¢n 
-|Este proyecto consiste en una p gina web sencilla creada para practicar Git y GitHub. Ramas creadas: - mejora-estilos: agrego un estilo al titulo principal - mejora-texto: añado un parrafo descriptivo. |
+📌 Parte Práctica
 
-- Flujo de trabajo: 
-1. Se crea la rama mejora-estilos y se agreg¢ estilo al titulo. |
-2. Se crea la rama mejora-texto y se agreg¢ contenido adicional. |
-3. Ambas ramas se enviaron al repositorio. |
-4. Se realizaron Pull Requests desde GitHub. |
-5. Las ramas fueron fusionadas correctamente con main.
+- Se creó el repositorio local TallerGitHub y se inicializó con Git.
+- Se añadió un archivo README con información del proyecto.
+- Se conectó el repositorio local con GitHub.
+- Se creó la rama feature-descripcion y se realizaron modificaciones.
+- Se generó un Pull Request y se fusionó con la rama principal.
+- Se creó el archivo notas.md con comandos aprendidos.
 
-El proyecto final combina ambas mejoras." 
+📌 Reto Final Proyecto creado
+
+Una pequeña página web contenida en un archivo index.html.
+
+- Ramas creadas
+- mejora-estilos: agregó un estilo al título.
+- mejora-texto: añadió un párrafo adicional.
+- Proceso documentado
+- Se creó el proyecto base.
+- Se generaron dos ramas con mejoras independientes.
+- Cada rama se subió a GitHub.
+- Se realizaron Pull Requests.
+- Se fusionaron correctamente con main.
+
+Comandos usados
+
+- git status
+- git branch
+- git commit
+- git push
+- git pull
